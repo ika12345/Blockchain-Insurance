@@ -1,6 +1,6 @@
-# **PrivInsure**
+# **Blockchain Insurance**
 
-**PrivInsure** is a privacy-preserving application that leverages Multi-Party Computation (MPC) to allow individuals to determine their eligibility for insurance policies without revealing their personal health data or the insurer's policy requirements. Using cutting-edge cryptographic techniques, **PrivInsure** ensures that both parties can securely compute the eligibility criteria while maintaining full confidentiality.
+**Blockchin Insurnce** is a privacy-preserving application that leverages Multi-Party Computation (MPC) to allow individuals to determine their eligibility for insurance policies without revealing their personal health data or the insurer's policy requirements. Using cutting-edge cryptographic techniques, **Block Chain Insurance** ensures that both parties can securely compute the eligibility criteria while maintaining full confidentiality.
 
 ---
 
@@ -33,7 +33,7 @@
 
 ## **Getting Started**
 
-Follow the steps below to set up and run **PrivInsure** locally.
+Follow the steps below to set up and run **Project** locally.
 
 ### Prerequisites
 
@@ -47,8 +47,8 @@ Follow the steps below to set up and run **PrivInsure** locally.
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/Nakshatra05/PrivInsure.git
-   cd PrivInsure
+   git clone https://github.com/ika12345/Blockchain-Insurance
+   cd Blockchain-Insurance
    ```
 
 2. Install the required dependencies for frontend:
@@ -107,27 +107,6 @@ Follow the steps below to set up and run **PrivInsure** locally.
 
 ---
 
-## **Contributing**
-
-We welcome contributions to **PrivInsure**! If you want to improve the application, feel free to fork the repository, create a branch, and submit a pull request.
-
-To contribute, please follow these steps:
-
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature-xyz`)
-3. Commit your changes (`git commit -am 'Add new feature'`)
-4. Push to the branch (`git push origin feature-xyz`)
-5. Open a pull request
-
----
-
-## **License**
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
 ## **Acknowledgements**
 
-- Thanks to the developers of the **mpc-framework** and **Trinity MPC scheme** for their innovative work in privacy-preserving computation.
-- Special thanks to the open-source cryptography community for enabling secure data sharing and privacy.
+- Thank you all 
